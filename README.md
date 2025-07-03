@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Soni</h1>
 <h3 align="center">Shaping My Future in Tech |B.Tech in Computer Science @ PSIT Kanpur</h3>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<hr style="border: none; height: 2px; background-color: #ccc; margin: 30px 0;" />
 
 
 <h3 align="left">Software development enthusiast on a journey from India 🇮🇳</h3>
@@ -11,7 +11,8 @@
 - 📫 Reach me at: **sshubhamsoni1806@gmail.com**
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<hr style="border: none; height: 2px; background-color: #ccc; margin: 30px 0;" />
+
 
 
 ### 📬 Connect with me:
